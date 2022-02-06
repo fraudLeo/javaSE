@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01-认识java/01-认识java.iml" filepath="$PROJECT_DIR$/01-认识java/01-认识java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-java语言和其它语言共性/02-java语言和其它语言共性.iml" filepath="$PROJECT_DIR$/02-java语言和其它语言共性/02-java语言和其它语言共性.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaSE.iml" filepath="$PROJECT_DIR$/javaSE.iml" />
     </modules>
   </component>
