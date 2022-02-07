@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3047f1cc-fbf8-4c91-8173-37e4b1f0c0bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/02-java语言和其它语言共性/src/ConstTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-java语言和其它语言共性/src/VarTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-java语言和其它语言共性/src/变量Var01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-java语言和其它语言共性/src/变量作用域.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-java语言和其它语言共性/src/ConstTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-java语言和其它语言共性/src/ConstTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-java语言和其它语言共性/第二章java语言的基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/02-java语言和其它语言共性/第二章java语言的基础.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,22 +36,32 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Application.K">
-    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="differenceBTWclassAndpublic_class.A" />
-      <module name="01-认识java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="differenceBTWclassAndpublic_class.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Application.VarTest03">
+    <configuration name="变量" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="变量" />
+      <module name="02-java语言和其它语言共性" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="变量作用域" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="变量作用域" />
+      <module name="02-java语言和其它语言共性" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConstTest01" />
+      <module name="02-java语言和其它语言共性" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -64,21 +79,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="VarTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VarTest03" />
+      <module name="02-java语言和其它语言共性" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VarTest03" />
+        <item itemvalue="Application.变量作用域" />
+        <item itemvalue="Application.变量" />
+        <item itemvalue="Application.ConstTest01" />
         <item itemvalue="Application.K" />
-        <item itemvalue="Application.A" />
       </list>
     </recent_temporary>
   </component>
@@ -90,7 +117,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644116588807</updated>
-      <workItem from="1644116590861" duration="6140000" />
+      <workItem from="1644116590861" duration="6189000" />
+      <workItem from="1644200247335" duration="8267000" />
     </task>
     <task id="LOCAL-00001" summary="my JAvA">
       <created>1644117064524</created>
@@ -113,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644121360753</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="my JAvA">
+      <created>1644153674379</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1644153674379</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
