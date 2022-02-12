@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3047f1cc-fbf8-4c91-8173-37e4b1f0c0bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-java语言和其它语言共性/src/VarTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-java语言和其它语言共性/src/变量Var01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-java语言和其它语言共性/src/变量作用域.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-java语言和其它语言共性/src/DataTypeTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-java语言和其它语言共性/src/DataTypeTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-java语言和其它语言共性/src/DataTypeTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-java语言和其它语言共性/src/DataTypeTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-java语言和其它语言共性/src/DataTypeTest05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-运算符/src/LogicSignTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-运算符/src/运算符.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-java语言和其它语言共性/src/ConstTest01.java" beforeDir="false" afterPath="$PROJECT_DIR$/02-java语言和其它语言共性/src/ConstTest01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/02-java语言和其它语言共性/第二章java语言的基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/02-java语言和其它语言共性/第二章java语言的基础.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +30,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="24ibvl26ywCEop6KDNXLWWfdko5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -42,16 +56,9 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.VarTest03">
-    <configuration name="变量" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="变量" />
-      <module name="02-java语言和其它语言共性" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.DataTypeTest05">
     <configuration name="变量作用域" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="变量作用域" />
       <module name="02-java语言和其它语言共性" />
@@ -59,22 +66,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConstTest01" />
+    <configuration name="DataTypeTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypeTest02" />
       <module name="02-java语言和其它语言共性" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="K" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="differenceBTWclassAndpublic_class.K" />
-      <module name="01-认识java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="differenceBTWclassAndpublic_class.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="DataTypeTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypeTest03" />
+      <module name="02-java语言和其它语言共性" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataTypeTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypeTest04" />
+      <module name="02-java语言和其它语言共性" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataTypeTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataTypeTest05" />
+      <module name="02-java语言和其它语言共性" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -86,26 +101,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DataTypeTest05" />
         <item itemvalue="Application.VarTest03" />
-        <item itemvalue="Application.变量作用域" />
-        <item itemvalue="Application.变量" />
-        <item itemvalue="Application.ConstTest01" />
-        <item itemvalue="Application.K" />
+        <item itemvalue="Application.DataTypeTest04" />
+        <item itemvalue="Application.DataTypeTest03" />
+        <item itemvalue="Application.DataTypeTest02" />
       </list>
     </recent_temporary>
   </component>
@@ -118,7 +131,12 @@
       <option name="presentableId" value="Default" />
       <updated>1644116588807</updated>
       <workItem from="1644116590861" duration="6189000" />
-      <workItem from="1644200247335" duration="8267000" />
+      <workItem from="1644200247335" duration="13195000" />
+      <workItem from="1644400052196" duration="1563000" />
+      <workItem from="1644464527737" duration="6303000" />
+      <workItem from="1644569675078" duration="2595000" />
+      <workItem from="1644641462306" duration="4466000" />
+      <workItem from="1644663394216" duration="4599000" />
     </task>
     <task id="LOCAL-00001" summary="my JAvA">
       <created>1644117064524</created>
@@ -148,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644153674379</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="这次上传了关于变量的解释">
+      <created>1644222490754</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1644222490754</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +181,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="my JAvA" />
-    <option name="LAST_COMMIT_MESSAGE" value="my JAvA" />
+    <MESSAGE value="这次上传了关于变量的解释" />
+    <option name="LAST_COMMIT_MESSAGE" value="这次上传了关于变量的解释" />
   </component>
 </project>
