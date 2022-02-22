@@ -5,16 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3047f1cc-fbf8-4c91-8173-37e4b1f0c0bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/02-java语言和其它语言共性/src/DataTypeTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-java语言和其它语言共性/src/DataTypeTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-java语言和其它语言共性/src/DataTypeTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-java语言和其它语言共性/src/DataTypeTest04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-java语言和其它语言共性/src/DataTypeTest05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-运算符/src/LogicSignTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-运算符/src/运算符.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-控制语句/src/SwitchTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-控制语句/src/笔记.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-方法/src/MethodTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-方法/src/MethodTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/show" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蓝桥杯/Self_Try/src/十六进制转8进制.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蓝桥杯/Self_Try/src/十进制转16进制.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蓝桥杯/基础练习/src/AplusB问题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蓝桥杯/基础练习/src/十六进制转八进制.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蓝桥杯/基础练习/src/十六进制转十进制.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蓝桥杯/基础练习/src/十进制转十六进制.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蓝桥杯/基础练习/src/数列排序.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-java语言和其它语言共性/第二章java语言的基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/02-java语言和其它语言共性/第二章java语言的基础.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +52,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -58,45 +66,45 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.DataTypeTest05">
-    <configuration name="变量作用域" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="变量作用域" />
-      <module name="02-java语言和其它语言共性" />
+  <component name="RunManager" selected="Application.十进制转十六进制">
+    <configuration name="数列排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数列排序" />
+      <module name="基础练习" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataTypeTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypeTest02" />
-      <module name="02-java语言和其它语言共性" />
+    <configuration name="十六进制转八进制" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="十六进制转八进制" />
+      <module name="基础练习" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataTypeTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypeTest03" />
-      <module name="02-java语言和其它语言共性" />
+    <configuration name="十六进制转十进制" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="十六进制转十进制" />
+      <module name="基础练习" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataTypeTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypeTest04" />
-      <module name="02-java语言和其它语言共性" />
+    <configuration name="十进制转十六进制" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="十进制转十六进制" />
+      <module name="基础练习" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataTypeTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataTypeTest05" />
-      <module name="02-java语言和其它语言共性" />
+    <configuration name="十六进制转8进制" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="十六进制转8进制" />
+      <module name="Self_Try" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VarTest03" />
-      <module name="02-java语言和其它语言共性" />
+    <configuration name="十六进制转八进制" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="十六进制转八进制" />
+      <module name="基础练习" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -114,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DataTypeTest05" />
-        <item itemvalue="Application.VarTest03" />
-        <item itemvalue="Application.DataTypeTest04" />
-        <item itemvalue="Application.DataTypeTest03" />
-        <item itemvalue="Application.DataTypeTest02" />
+        <item itemvalue="Application.十进制转十六进制" />
+        <item itemvalue="Application.十六进制转十进制" />
+        <item itemvalue="Application.十六进制转8进制" />
+        <item itemvalue="Application.十六进制转八进制" />
+        <item itemvalue="Application.数列排序" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +144,14 @@
       <workItem from="1644464527737" duration="6303000" />
       <workItem from="1644569675078" duration="2595000" />
       <workItem from="1644641462306" duration="4466000" />
-      <workItem from="1644663394216" duration="4599000" />
+      <workItem from="1644663394216" duration="5462000" />
+      <workItem from="1644803258502" duration="2778000" />
+      <workItem from="1644915704155" duration="2484000" />
+      <workItem from="1645070067487" duration="2044000" />
+      <workItem from="1645317885630" duration="1151000" />
+      <workItem from="1645354471143" duration="7838000" />
+      <workItem from="1645411632709" duration="1340000" />
+      <workItem from="1645450623412" duration="24803000" />
     </task>
     <task id="LOCAL-00001" summary="my JAvA">
       <created>1644117064524</created>
@@ -173,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644222490754</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="第二章完结">
+      <created>1644668980763</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1644668980763</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +204,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="my JAvA" />
     <MESSAGE value="这次上传了关于变量的解释" />
-    <option name="LAST_COMMIT_MESSAGE" value="这次上传了关于变量的解释" />
+    <MESSAGE value="第二章完结" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二章完结" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/javaSE$.ic" NAME="数列排序 Coverage Results" MODIFIED="1645365803148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
