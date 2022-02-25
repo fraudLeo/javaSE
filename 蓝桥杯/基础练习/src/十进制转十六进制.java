@@ -41,7 +41,7 @@ public class 十进制转十六进制 {
             } else {
                 strBin = "0" + strBin;
             }
-            intDec = intDec/3;
+            intDec = intDec/2;
         }
 //        System.out.println(strBin);
 

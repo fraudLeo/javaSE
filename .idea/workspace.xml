@@ -4,21 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3047f1cc-fbf8-4c91-8173-37e4b1f0c0bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/04-控制语句/src/SwitchTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-控制语句/src/笔记.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-方法/src/MethodTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-方法/src/MethodTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/show" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/蓝桥杯/Self_Try/src/十六进制转8进制.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/蓝桥杯/Self_Try/src/十进制转16进制.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/蓝桥杯/基础练习/src/AplusB问题.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/蓝桥杯/基础练习/src/十六进制转八进制.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/蓝桥杯/基础练习/src/十六进制转十进制.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/蓝桥杯/基础练习/src/十进制转十六进制.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/蓝桥杯/基础练习/src/数列排序.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="3047f1cc-fbf8-4c91-8173-37e4b1f0c0bc" name="Default Changelist" comment="test">
+      <change afterPath="$PROJECT_DIR$/蓝桥杯/基础练习/src/回文数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蓝桥杯/基础练习/src/字母图形.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蓝桥杯/基础练习/src/数列特征.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蓝桥杯/基础练习/src/杨辉三角形.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蓝桥杯/基础练习/src/查找整数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蓝桥杯/基础练习/src/特殊回文数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蓝桥杯/基础练习/src/特殊的数字.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蓝桥杯/基础练习/src/十进制转十六进制.java" beforeDir="false" afterPath="$PROJECT_DIR$/蓝桥杯/基础练习/src/十进制转十六进制.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,11 +59,60 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.十进制转十六进制">
-    <configuration name="数列排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数列排序" />
+  <component name="RunManager">
+    <configuration name="数列特征" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数列特征" />
+      <module name="基础练习" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="十进制转十六进制" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="十进制转十六进制" />
+      <module name="基础练习" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="十六进制转八进制" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="十六进制转八进制" />
+      <module name="基础练习" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="特殊的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="特殊的数字" />
+      <module name="基础练习" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="杨辉三角形" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="杨辉三角形" />
+      <module name="基础练习" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="查找整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="查找整数" />
+      <module name="基础练习" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="字母图形" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="字母图形" />
+      <module name="基础练习" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="回文数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="回文数" />
       <module name="基础练习" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,45 +132,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="十进制转十六进制" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="十进制转十六进制" />
-      <module name="基础练习" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="十六进制转8进制" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="十六进制转8进制" />
-      <module name="Self_Try" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="十六进制转八进制" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="十六进制转八进制" />
-      <module name="基础练习" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.十进制转十六进制" />
-        <item itemvalue="Application.十六进制转十进制" />
-        <item itemvalue="Application.十六进制转8进制" />
-        <item itemvalue="Application.十六进制转八进制" />
-        <item itemvalue="Application.数列排序" />
+        <item itemvalue="Application.数列特征" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +159,11 @@
       <workItem from="1645317885630" duration="1151000" />
       <workItem from="1645354471143" duration="7838000" />
       <workItem from="1645411632709" duration="1340000" />
-      <workItem from="1645450623412" duration="24803000" />
+      <workItem from="1645450623412" duration="29841000" />
+      <workItem from="1645615775735" duration="741000" />
+      <workItem from="1645618439641" duration="1180000" />
+      <workItem from="1645690131258" duration="5744000" />
+      <workItem from="1645749531985" duration="1294000" />
     </task>
     <task id="LOCAL-00001" summary="my JAvA">
       <created>1644117064524</created>
@@ -195,7 +207,21 @@
       <option name="project" value="LOCAL" />
       <updated>1644668980763</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="上传蓝桥杯题目">
+      <created>1645518174709</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1645518174709</updated>
+    </task>
+    <task id="LOCAL-00008" summary="test">
+      <created>1645518398991</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1645518398991</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,7 +231,9 @@
     <MESSAGE value="my JAvA" />
     <MESSAGE value="这次上传了关于变量的解释" />
     <MESSAGE value="第二章完结" />
-    <option name="LAST_COMMIT_MESSAGE" value="第二章完结" />
+    <MESSAGE value="上传蓝桥杯题目" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/javaSE$.ic" NAME="数列排序 Coverage Results" MODIFIED="1645365803148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
