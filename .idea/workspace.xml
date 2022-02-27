@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3047f1cc-fbf8-4c91-8173-37e4b1f0c0bc" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/蓝桥杯/基础练习/src/回文数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/蓝桥杯/基础练习/src/字母图形.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/蓝桥杯/基础练习/src/数列特征.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/蓝桥杯/基础练习/src/杨辉三角形.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/蓝桥杯/基础练习/src/查找整数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/蓝桥杯/基础练习/src/特殊回文数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/蓝桥杯/基础练习/src/特殊的数字.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蓝桥杯/基础练习/src/十进制转十六进制.java" beforeDir="false" afterPath="$PROJECT_DIR$/蓝桥杯/基础练习/src/十进制转十六进制.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +61,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="回文数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="回文数" />
+      <module name="基础练习" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="十六进制转八进制" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="十六进制转八进制" />
+      <module name="基础练习" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="十六进制转十进制" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="十六进制转十进制" />
+      <module name="基础练习" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="十进制转十六进制" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="十进制转十六进制" />
       <module name="基础练习" />
@@ -111,34 +124,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="回文数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="回文数" />
-      <module name="基础练习" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="十六进制转八进制" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="十六进制转八进制" />
-      <module name="基础练习" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="十六进制转十进制" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="十六进制转十进制" />
-      <module name="基础练习" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.数列特征" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="3047f1cc-fbf8-4c91-8173-37e4b1f0c0bc" name="Default Changelist" comment="" />
@@ -164,6 +159,9 @@
       <workItem from="1645618439641" duration="1180000" />
       <workItem from="1645690131258" duration="5744000" />
       <workItem from="1645749531985" duration="1294000" />
+      <workItem from="1645969445341" duration="71000" />
+      <workItem from="1645969562285" duration="14000" />
+      <workItem from="1645969611223" duration="10000" />
     </task>
     <task id="LOCAL-00001" summary="my JAvA">
       <created>1644117064524</created>
@@ -225,7 +223,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="my JAvA" />
@@ -234,6 +232,12 @@
     <MESSAGE value="上传蓝桥杯题目" />
     <MESSAGE value="test" />
     <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="518" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1645969566877">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="518" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1645969566877" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/javaSE$.ic" NAME="数列排序 Coverage Results" MODIFIED="1645365803148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
