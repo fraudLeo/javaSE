@@ -16,7 +16,7 @@ public class 十进制转十六进制 {
             strBin="0"+strBin;
         }
         if (len_strBin%4==2) {
-            strBin="00"+strBin;ddd
+            strBin="00"+strBin;
         }
         if (len_strBin%4==1) {
             strBin="000"+strBin;
