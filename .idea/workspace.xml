@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3047f1cc-fbf8-4c91-8173-37e4b1f0c0bc" name="Default Changelist" comment="在实验室写的代码">
-      <change afterPath="$PROJECT_DIR$/蓝桥杯/算法训练/src/印章.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/蓝桥杯/算法训练/算法训练.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="3047f1cc-fbf8-4c91-8173-37e4b1f0c0bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/蓝桥杯/Self_Try/src/印章训练.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蓝桥杯/Self_Try/src/拿金币1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蓝桥杯/Self_Try/src/拿金币2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蓝桥杯/算法训练/src/拿金币.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蓝桥杯/算法训练/src/数字游戏.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蓝桥杯/算法训练/src/印章.java" beforeDir="false" afterPath="$PROJECT_DIR$/蓝桥杯/算法训练/src/印章.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,49 +21,42 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/蓝桥杯/基础练习/src/圆的面积.java">
+        <entry file="file://$PROJECT_DIR$/蓝桥杯/Self_Try/src/拿金币1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="e#63#64#0" expanded="true" />
-                <element signature="e#80#81#0" expanded="true" />
-              </folding>
+              <caret line="17" column="63" lean-forward="true" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/蓝桥杯/基础练习/src/序列求和.java">
+        <entry file="file://$PROJECT_DIR$/蓝桥杯/Self_Try/src/拿金币2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-              <folding>
-                <element signature="e#91#92#0" expanded="true" />
-                <element signature="e#116#117#0" expanded="true" />
-              </folding>
+            <state>
+              <caret selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/蓝桥杯/算法训练/src/拿金币.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/蓝桥杯/算法训练/src/印章.java">
+        <entry file="file://$PROJECT_DIR$/蓝桥杯/算法训练/src/数字游戏.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
-              <folding>
-                <element signature="e#0#332#0" expanded="true" />
-                <element signature="e#61#62#0" expanded="true" />
-                <element signature="e#84#85#0" expanded="true" />
-                <element signature="e#609#610#0" expanded="true" />
-                <element signature="e#643#644#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -91,13 +87,18 @@
         <option value="$PROJECT_DIR$/蓝桥杯/基础练习/src/Fibonacci.java" />
         <option value="$PROJECT_DIR$/蓝桥杯/基础练习/src/圆的面积.java" />
         <option value="$PROJECT_DIR$/蓝桥杯/基础练习/src/序列求和.java" />
+        <option value="$PROJECT_DIR$/蓝桥杯/Self_Try/src/印章训练.java" />
         <option value="$PROJECT_DIR$/蓝桥杯/算法训练/src/印章.java" />
+        <option value="$PROJECT_DIR$/蓝桥杯/Self_Try/src/拿金币1.java" />
+        <option value="$PROJECT_DIR$/蓝桥杯/Self_Try/src/拿金币2.java" />
+        <option value="$PROJECT_DIR$/蓝桥杯/算法训练/src/拿金币.java" />
+        <option value="$PROJECT_DIR$/蓝桥杯/算法训练/src/数字游戏.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="1093" />
+    <option name="y" value="116" />
     <option name="width" value="808" />
     <option name="height" value="1047" />
   </component>
@@ -117,7 +118,21 @@
           <expand>
             <path>
               <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Self_Try" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Self_Try" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
               <item name="算法训练" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaSE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="算法训练" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -156,7 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.印章">
+  <component name="RunManager" selected="Application.拿金币">
     <configuration name="数列特征" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="数列特征" />
       <module name="基础练习" />
@@ -164,8 +179,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="圆的面积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="圆的面积" />
+    <configuration name="拿金币1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="拿金币1" />
+      <module name="Self_Try" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="拿金币2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="拿金币2" />
+      <module name="Self_Try" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="拿金币" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="拿金币" />
+      <module name="算法训练" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fibonacci" />
       <module name="基础练习" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -181,13 +217,6 @@
     <configuration name="印章" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="印章" />
       <module name="算法训练" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fibonacci" />
-      <module name="基础练习" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -227,6 +256,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="印章" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="印章" />
+      <module name="算法训练" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="印章训练" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="印章训练" />
+      <module name="Self_Try" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="拿金币" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="拿金币" />
+      <module name="算法训练" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="十六进制转八进制" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="十六进制转八进制" />
       <module name="基础练习" />
@@ -255,13 +305,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="圆的面积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="圆的面积" />
+      <module name="基础练习" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.印章" />
-        <item itemvalue="Application.序列求和" />
-        <item itemvalue="Application.圆的面积" />
-        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="Application.拿金币" />
+        <item itemvalue="Application.拿金币2" />
+        <item itemvalue="Application.拿金币1" />
         <item itemvalue="Application.数列特征" />
+        <item itemvalue="Application.Fibonacci" />
       </list>
     </recent_temporary>
   </component>
@@ -297,7 +354,9 @@
       <workItem from="1645969445341" duration="71000" />
       <workItem from="1645969562285" duration="14000" />
       <workItem from="1645969611223" duration="10000" />
-      <workItem from="1646030904667" duration="10131000" />
+      <workItem from="1646030904667" duration="10261000" />
+      <workItem from="1646109593192" duration="8411000" />
+      <workItem from="1646123588024" duration="7122000" />
     </task>
     <task id="LOCAL-00001" summary="my JAvA">
       <created>1644117064524</created>
@@ -362,44 +421,59 @@
       <option name="project" value="LOCAL" />
       <updated>1646035592078</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="在实验室写的代码">
+      <created>1646051710976</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1646051710976</updated>
+    </task>
+    <task id="LOCAL-00011" summary="在实验室写的代码(印章没写完">
+      <created>1646051782148</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1646051782148</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10131000" />
+    <option name="totallyTimeSpent" value="25794000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1119" y="0" width="808" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.35462555" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.48342246" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32894737" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" weight="0.33222592" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.16389811" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39977852" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27960527" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39583334" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.10197368" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32894737" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -430,6 +504,20 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="my JAvA" />
@@ -438,7 +526,8 @@
     <MESSAGE value="上传蓝桥杯题目" />
     <MESSAGE value="test" />
     <MESSAGE value="在实验室写的代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="在实验室写的代码" />
+    <MESSAGE value="在实验室写的代码(印章没写完" />
+    <option name="LAST_COMMIT_MESSAGE" value="在实验室写的代码(印章没写完" />
   </component>
   <component name="WindowStateProjectService">
     <state x="518" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1645969566877">
@@ -447,24 +536,11 @@
     <state x="518" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1645969566877" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/蓝桥杯/算法训练/src/印章.java</url>
-          <line>30</line>
-          <properties class="Solution" method="solve">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/蓝桥杯/算法训练/src/印章.java</url>
-          <line>43</line>
-          <properties />
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="i" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/javaSE$.ic" NAME="数列排序 Coverage Results" MODIFIED="1645365803148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
@@ -500,39 +576,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/蓝桥杯/基础练习/src/圆的面积.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#63#64#0" expanded="true" />
-            <element signature="e#80#81#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/蓝桥杯/基础练习/src/序列求和.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-          <folding>
-            <element signature="e#91#92#0" expanded="true" />
-            <element signature="e#116#117#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/蓝桥杯/基础练习/src/圆的面积.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/蓝桥杯/Self_Try/src/印章训练.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="87" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/蓝桥杯/算法训练/src/印章.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="120">
+          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
           <folding>
-            <element signature="e#0#332#0" expanded="true" />
-            <element signature="e#61#62#0" expanded="true" />
-            <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#609#610#0" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
+            <element signature="e#0#904#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/蓝桥杯/Self_Try/src/拿金币1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="63" lean-forward="true" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/蓝桥杯/Self_Try/src/拿金币2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/蓝桥杯/算法训练/src/拿金币.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/蓝桥杯/算法训练/src/数字游戏.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -586,7 +685,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>基础练习</last-edited>
+          <last-edited>算法训练</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
