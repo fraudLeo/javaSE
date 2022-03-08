@@ -29,6 +29,7 @@ public class 十六进制转十进制 {
     private static String toBin(String strHex) {
         StringBuffer sBuffer = new StringBuffer();
         int len_strHex = strHex.length();
+
         for (int i = 0; i < len_strHex; i++) {
             switch (strHex.charAt(i)) {
                 case '0' : sBuffer.append("0000");break;
