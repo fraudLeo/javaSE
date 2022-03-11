@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3047f1cc-fbf8-4c91-8173-37e4b1f0c0bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/蓝桥杯/算法训练/src/礼物.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蓝桥杯/Self_Try/src/礼物self1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/蓝桥杯/算法训练/src/区间k大数查询.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蓝桥杯/Self_Try/src/无聊的逗.java" beforeDir="false" afterPath="$PROJECT_DIR$/蓝桥杯/Self_Try/src/无聊的逗.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/蓝桥杯/算法训练/src/无聊的逗.java" beforeDir="false" afterPath="$PROJECT_DIR$/蓝桥杯/算法训练/src/无聊的逗.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蓝桥杯/算法训练/src/礼物.java" beforeDir="false" afterPath="$PROJECT_DIR$/蓝桥杯/算法训练/src/礼物.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,56 +23,56 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/蓝桥杯/算法训练/src/无聊的逗.java">
+        <entry file="file://$PROJECT_DIR$/蓝桥杯/算法训练/src/礼物.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" lean-forward="true" selection-end-line="35" />
+            <state relative-caret-position="96">
+              <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#90#91#0" expanded="true" />
-                <element signature="e#115#116#0" expanded="true" />
+                <element signature="e#153#154#0" expanded="true" />
+                <element signature="e#178#179#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/蓝桥杯/算法训练/src/礼物.java">
+        <entry file="file://$PROJECT_DIR$/蓝桥杯/算法训练/src/区间k大数查询.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="47" column="1" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+            <state relative-caret-position="381">
+              <caret line="70" column="27" selection-start-line="70" selection-start-column="27" selection-end-line="70" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#61#62#0" expanded="true" />
-                <element signature="e#78#79#0" expanded="true" />
+                <element signature="e#222#223#0" expanded="true" />
+                <element signature="e#239#240#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/蓝桥杯/基础练习/src/二进制字串.java">
+        <entry file="file://$PROJECT_DIR$/蓝桥杯/Self_Try/src/礼物self1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            <state relative-caret-position="418">
+              <caret line="37" column="47" selection-end-line="56" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#113#114#0" expanded="true" />
+                <element signature="e#138#139#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/蓝桥杯/基础练习/src/AplusB问题.java">
+        <entry file="jar://E:/Environment/JDK8.0/src.zip!/java/util/Arrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/蓝桥杯/Self_Try/src/无聊的逗.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="830">
-              <caret line="70" selection-start-line="70" selection-end-line="70" />
+            <state relative-caret-position="92">
+              <caret line="5033" column="28" selection-start-line="5033" selection-start-column="28" selection-end-line="5033" selection-end-column="28" />
+              <folding>
+                <element signature="e#224394#224395#0" expanded="true" />
+                <element signature="e#224447#224448#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -124,13 +124,16 @@
         <option value="$PROJECT_DIR$/蓝桥杯/算法训练/src/数字游戏.java" />
         <option value="$PROJECT_DIR$/蓝桥杯/Self_Try/src/无聊的逗.java" />
         <option value="$PROJECT_DIR$/蓝桥杯/算法训练/src/无聊的逗.java" />
+        <option value="$PROJECT_DIR$/蓝桥杯/Self_Try/src/礼物self.java" />
+        <option value="$PROJECT_DIR$/蓝桥杯/Self_Try/src/礼物self1.java" />
         <option value="$PROJECT_DIR$/蓝桥杯/算法训练/src/礼物.java" />
+        <option value="$PROJECT_DIR$/蓝桥杯/算法训练/src/区间k大数查询.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="738" />
+    <option name="y" value="49" />
     <option name="width" value="976" />
     <option name="height" value="1056" />
   </component>
@@ -143,6 +146,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,7 +183,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -213,14 +216,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.礼物">
-    <configuration name="无聊的逗 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="无聊的逗" />
-      <module name="Self_Try" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.区间k大数查询">
     <configuration name="数字游戏" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="数字游戏" />
       <module name="算法训练" />
@@ -235,65 +231,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="数字游戏2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数字游戏2" />
-      <module name="Self_Try" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="无聊的逗" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="无聊的逗" />
-      <module name="算法训练" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="礼物" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="礼物" />
       <module name="算法训练" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="圆的面积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="圆的面积" />
-      <module name="基础练习" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="无聊的逗" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="无聊的逗" />
-      <module name="算法训练" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="拿金币" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="拿金币" />
-      <module name="算法训练" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="序列求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="序列求和" />
-      <module name="基础练习" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="印章" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="印章" />
-      <module name="算法训练" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="字母图形" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="字母图形" />
-      <module name="基础练习" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -368,6 +308,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="无聊的逗" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="无聊的逗" />
+      <module name="算法训练" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="查找整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="查找整数" />
       <module name="基础练习" />
@@ -375,13 +322,83 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="礼物" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="礼物" />
+      <module name="算法训练" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="圆的面积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="圆的面积" />
+      <module name="基础练习" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="无聊的逗" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="无聊的逗" />
+      <module name="算法训练" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="拿金币" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="拿金币" />
+      <module name="算法训练" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="序列求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="序列求和" />
+      <module name="基础练习" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="印章" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="印章" />
+      <module name="算法训练" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="字母图形" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="字母图形" />
+      <module name="基础练习" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="区间k大数查询" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="区间k大数查询" />
+      <module name="算法训练" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="礼物self1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="礼物self1" />
+      <module name="算法训练" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="礼物self1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="礼物self1" />
+      <module name="Self_Try" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.区间k大数查询" />
         <item itemvalue="Application.礼物" />
-        <item itemvalue="Application.无聊的逗" />
-        <item itemvalue="Application.无聊的逗 (1)" />
+        <item itemvalue="Application.礼物self1 (1)" />
+        <item itemvalue="Application.礼物self1" />
         <item itemvalue="Application.数字游戏" />
-        <item itemvalue="Application.数字游戏2" />
       </list>
     </recent_temporary>
   </component>
@@ -428,7 +445,8 @@
       <workItem from="1646734176310" duration="978000" />
       <workItem from="1646736161482" duration="14503000" />
       <workItem from="1646817238328" duration="1433000" />
-      <workItem from="1646911862903" duration="3193000" />
+      <workItem from="1646911862903" duration="3669000" />
+      <workItem from="1646983216099" duration="14491000" />
     </task>
     <task id="LOCAL-00001" summary="my JAvA">
       <created>1644117064524</created>
@@ -535,17 +553,24 @@
       <option name="project" value="LOCAL" />
       <updated>1646744449946</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="回宿舍整理代码(更新到礼物">
+      <created>1646915498115</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1646915498115</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66701000" />
+    <option name="totallyTimeSpent" value="81668000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="952" y="-8" width="976" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24653149" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.20678337" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -554,17 +579,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22801302" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.23452769" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.116178066" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.34744844" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.10197368" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.17046688" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32894737" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32790446" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -629,7 +654,8 @@
     <MESSAGE value="在实验室写的代码(印章没写完" />
     <MESSAGE value="回宿舍整理代码" />
     <MESSAGE value="回宿舍整理代码(更新到无聊的逗" />
-    <option name="LAST_COMMIT_MESSAGE" value="回宿舍整理代码(更新到无聊的逗" />
+    <MESSAGE value="回宿舍整理代码(更新到礼物" />
+    <option name="LAST_COMMIT_MESSAGE" value="回宿舍整理代码(更新到礼物" />
   </component>
   <component name="WindowStateProjectService">
     <state x="518" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1645969566877">
@@ -677,10 +703,34 @@
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/蓝桥杯/算法训练/src/礼物.java</url>
-          <line>5</line>
+          <url>file://$PROJECT_DIR$/蓝桥杯/Self_Try/src/礼物self1.java</url>
+          <line>25</line>
           <properties />
-          <option name="timeStamp" value="9" />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/蓝桥杯/Self_Try/src/礼物self1.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/蓝桥杯/算法训练/src/礼物.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/蓝桥杯/算法训练/src/礼物.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/蓝桥杯/算法训练/src/区间k大数查询.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -790,13 +840,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://E:/Environment/JDK8.0/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="118" selection-start-line="118" selection-end-line="118" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/蓝桥杯/基础练习/src/十六进制转八进制.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="870">
@@ -831,12 +874,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/蓝桥杯/算法训练/src/数字游戏.java">
+    <entry file="file://$PROJECT_DIR$/蓝桥杯/算法训练/src/无聊的逗.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        <state relative-caret-position="420">
+          <caret line="31" selection-end-line="35" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -857,31 +902,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/蓝桥杯/Self_Try/src/无聊的逗.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="830">
+        <state relative-caret-position="1050">
           <caret line="70" selection-start-line="70" selection-end-line="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/蓝桥杯/算法训练/src/无聊的逗.java">
+    <entry file="file://$PROJECT_DIR$/蓝桥杯/算法训练/src/数字游戏.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" lean-forward="true" selection-end-line="35" />
+        <state relative-caret-position="-225">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#90#91#0" expanded="true" />
-            <element signature="e#115#116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Environment/JDK8.0/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5033" column="28" selection-start-line="5033" selection-start-column="28" selection-end-line="5033" selection-end-column="28" />
+          <folding>
+            <element signature="e#224394#224395#0" expanded="true" />
+            <element signature="e#224447#224448#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/蓝桥杯/Self_Try/src/礼物self1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="37" column="47" selection-end-line="56" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/蓝桥杯/算法训练/src/礼物.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="1" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+        <state relative-caret-position="96">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#61#62#0" expanded="true" />
-            <element signature="e#78#79#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/蓝桥杯/算法训练/src/区间k大数查询.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="70" column="27" selection-start-line="70" selection-start-column="27" selection-end-line="70" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
           </folding>
         </state>
       </provider>

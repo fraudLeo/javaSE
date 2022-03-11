@@ -1,9 +1,8 @@
-//运行错误,但是我也不知道错哪里了
 import java.util.Arrays;
 import java.util.Scanner;
 import java.util.stream.IntStream;
 
-public class 礼物 {
+public class 礼物self1 {
     public static void main(String[] args) {
         method1();
     }
@@ -28,21 +27,21 @@ public class 礼物 {
             for (int j = 0; j <N-(2*i); j++) {//从第几个开始
                 int sum1 = 0;
                 int sum2 = 0;
-//                System.out.println("---------开始-----------");
-//                System.out.print("开始第一组数列:  ");
+                System.out.println("---------开始-----------");
+                System.out.print("开始第一组数列:  ");
                 for ( i1 = j; i1 <= j + i - 1; i1++) {
                     sum1 +=arrs[i1];
-//                    System.out.print(arrs[i1]+ " ");
+                    System.out.print(arrs[i1]+ " ");
                 }
-//                System.out.println("这是sum1:  "+ sum1);
-//                System.out.println(" ");
-//                System.out.print("开始第二组数列:  ");
+                System.out.println("这是sum1:  "+ sum1);
+                System.out.println(" ");
+                System.out.print("开始第二组数列:  ");
                 for ( i2 = j+i; i2 <=j+i+i-1; i2++) {
                     sum2 +=arrs[i2];
-//                    System.out.print(arrs[i2]+ " ");
+                    System.out.print(arrs[i2]+ " ");
                 }
-//                System.out.println("这是sum2:  "+ sum2);
-//                System.out.println(" ");
+                System.out.println("这是sum2:  "+ sum2);
+                System.out.println(" ");
                 if (sum2==sum1&&sum1<=S) {
                     choose[m] = 2*i;
                     m++;
@@ -50,7 +49,7 @@ public class 礼物 {
             }
         }
 
-//        System.out.println(Arrays.toString(choose));
+        System.out.println(Arrays.toString(choose));
         int end = Arrays.stream(choose).max().getAsInt();
         System.out.println(end);
     }
