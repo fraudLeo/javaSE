@@ -1,3 +1,5 @@
+package src;
+
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -29,7 +31,7 @@ public class 礼物 {
                 for ( i1 = j; i1 <= j + i; i1++) {
                     sum1 +=arrs[i1];
                 }
-                for ( i2 = i1+i;i2<=j+i +i;i2++) {
+                for ( i2 = i1+j;i2<=j+i +i;i2++) {
                     sum2 +=arrs[i2];
                 }
                 if (sum2==sum1&&sum1<=S) {

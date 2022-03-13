@@ -1,4 +1,4 @@
-//动态规划
+package src;//动态规划
 //https://blog.csdn.net/okok__TXF/article/details/121099645
 //100
 import java.util.Scanner;
