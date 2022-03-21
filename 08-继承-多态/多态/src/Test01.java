@@ -81,7 +81,51 @@ public class Test01 {
          *
          *      什么时候需要使用向下转型呢?
          *          当调用的方法狮子类型中特有的,在父类当中不存在,必须进行向下转型
+         *
          */
+        Cat c2 = (Cat) a2;
+        c2.catchMouse();
+
+        //父类型引用指向子类型对象 [多态]
+        Animal a3 = new Bird();
+        /**
+         * 1. 以下程序编译阶段是没有问题的,因为编译器检查到a3的数据类型是Aanimal
+         * Animal和Cat之间存在继承关系 并且Animal是父类型 Cat是子类型
+         * 夫类型转换成子类型叫向下转型,语法符合
+         *
+         * 2. 程序虽然编译通过了 但是程序在运行阶段会出现异常,因为JVM堆内存
+         *  当中真实存在的对象是Bird类型,Bird对象无法转换成Cat对象,因为两种
+         *  类型之间不存在任何继承关系,此时出现了著名的异常 :
+         *      java.long.ClassCastException
+         *      类型转换一场,这种异常总是在向下转型的时候发生
+         *
+         */
+//        Cat c3 = (Cat) a3;
+        /**
+         * 以上一场只有在强制类型转换的时候才会发生,也就是说,向下转型存在安全隐患
+         * 向上转型 只要编译通过一定不会出问题
+         * 所以怎么避免向下转型出现错误呢?
+         *      - 使用 instanceof运算符 可以避免出现以上异常
+         * instanceOf怎么使用?
+         *      语法格式:
+         *          引用instanceof数据类型名
+         *      以上运算符的执行结果类型是布尔类型,结果可能是true/false
+         *          假设:(a instanceof Animal)
+         *          true 表示:
+         *              a这个引用指向的对象是一个anumal类型
+         *          false 表示:
+         *              a这个引用指向的对象不是一个animal类型
+         *
+         */
+        //当a3引用指向的对象确实是一个Cat的时候
+        if (a3 instanceof Cat) {
+            Cat c3 = (Cat) a3;
+            c3.catchMouse();
+        } else if (a3 instanceof Bird) {
+            Bird b2 = (Bird) a3;
+            b2.fly();
+        }
+
     }
 }
 
