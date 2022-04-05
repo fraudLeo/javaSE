@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="01-认识java/src"/>
+	<classpathentry kind="src" path="02-java语言和其它语言共性/src"/>
+	<classpathentry kind="src" path="03-运算符/src"/>
+	<classpathentry kind="src" path="04-控制语句/src"/>
+	<classpathentry kind="src" path="05-方法/src"/>
+	<classpathentry kind="src" path="06-面向对象"/>
+	<classpathentry kind="src" path="07-对象的创建与使用/封装性/src"/>
+	<classpathentry kind="src" path="07-对象的创建与使用/构造方法/src"/>
+	<classpathentry kind="src" path="07-对象的创建与使用/类/src"/>
+	<classpathentry kind="src" path="08-继承-多态/多态/src"/>
+	<classpathentry kind="src" path="08-继承-多态/继承/src"/>
+	<classpathentry kind="src" path="08-继承-多态/final/src"/>
+	<classpathentry kind="src" path="蓝桥杯/基础练习/src"/>
+	<classpathentry excluding="src/" kind="src" path="蓝桥杯/算法训练"/>
+	<classpathentry kind="src" path="蓝桥杯/算法训练/src"/>
+	<classpathentry kind="src" path="蓝桥杯/Self_Try/src"/>
+	<classpathentry kind="src" path="数据结构与算法/数据结构与算法/1.数据结构与算法概述/src"/>
+	<classpathentry kind="src" path="数据结构与算法/数据结构与算法/3.排序/src"/>
+	<classpathentry kind="src" path="数据结构与算法/数据结构与算法/4.线性表/src/顺序表/Line"/>
+	<classpathentry kind="src" path="package-import"/>
+	<classpathentry kind="src" path="static关键字/src"/>
+	<classpathentry kind="src" path="this关键字/this/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
