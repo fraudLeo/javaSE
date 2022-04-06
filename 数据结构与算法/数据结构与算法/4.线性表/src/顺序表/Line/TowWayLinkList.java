@@ -182,5 +182,29 @@ public class TowWayLinkList<T> implements Iterable<T>{
     }
 
 
+    //用来反转整个链表
+    public void reverse() {
+        //判断当前链表是否为空链表,如果是,就结束运行,如果不是,则调用重载的reverse完成反转
+        if (isEmpty()) {
+            return ;
+        }
+        reverse(head.next);
 
+    }
+
+    //指定反转某个节点
+    public Node reverse(Node curr) {
+        //证明反转到最后一个节点
+        if (curr.next==null) {
+            head.next = curr;
+            return curr;
+        }
+        //递归的反转节点curr的下一个几点;返回值就是链表反转后 当前节点的上一个节点
+        Node pre = reverse(curr.next);
+        //让返回的节点变成当前节点curr
+        pre.next = curr;
+        //把当前的节点的下一个节点变为null;
+        curr.next = null;
+        return curr;
+    }
 }
